@@ -1,0 +1,25 @@
+div.float{
+  width: 80px;
+  background-color: blue;
+  float: left;
+}
+
+div.orange{
+  background-color: orange;
+}
+div.purple{
+  background-color: purple;
+ 
+}
+
+div.green{
+  background-color: green;
+  
+}
+
+div.container{
+  background-color: brown;
+ 
+}
+
+
