@@ -1,6 +1,6 @@
 div.float{
   width: 80px;
-  background-color: blue;
+  background-color: royalblue;
   float: left;
 }
 
@@ -9,17 +9,18 @@ div.orange{
 }
 div.purple{
   background-color: purple;
- 
 }
 
-div.green{
+div#green{
   background-color: green;
-  
 }
 
 div.container{
   background-color: brown;
- 
+  width: 500px;
+  margin: auto;
 }
 
-
+.clear {
+  clear:both;
+}
